@@ -1,4 +1,4 @@
-Get-Content .\site-params.config | Invoke-Expression
+Get-Content .\siteparams-createADGroup.config | Invoke-Expression
 
 $ADGroup
 $ADGroupDesc
